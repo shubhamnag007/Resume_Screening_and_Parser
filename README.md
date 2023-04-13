@@ -5,14 +5,8 @@
 ## **`Business objective-`** The document classification solution should significantly reduce the manual human effort in the HRM. It should achieve a higher level of accuracy and automation with minimal human intervention 
 ## **Sample Data Set Details:** Resumes and financial documents
 
-### </br>This project is part of Data Science internship at [AiVariant](https://aivariant.com/)
 
-### **Contact me by**
-Name | 💌Email Adress |
-| --- | --- |
-| **Moin Dalvi** | moindalvs@gmail.com |
 
-![image](https://user-images.githubusercontent.com/99672298/191707634-0b84f2cd-4a60-49b2-83a5-314cce49564a.png)
 ![image](https://user-images.githubusercontent.com/99672298/191707656-53dbf44e-c636-49cc-9335-6cd4dc40de67.png)
 ![image](https://user-images.githubusercontent.com/99672298/191707674-8b3c72b8-9812-4581-b5ac-c16ebee96315.png)
 ![image](https://user-images.githubusercontent.com/99672298/191707720-f6f3d217-13fc-4d98-a81c-3b6d232bd514.png)
@@ -62,25 +56,7 @@ Name | 💌Email Adress |
 
 ___
 
-## Author
 
-<table>
-<tr>
-<td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180"/>
-     
-     moindalvs@gmail.com
-
-<p align="center">
-<a href = "https://github.com/MoinDalvs"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/DalvsHubot"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/moin-dalvi-277b0214a//"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-</tr> 
-  </table>
-
-[Table of Content](#0.1)
 
 <div style="display:fill;
             border-radius: false;
